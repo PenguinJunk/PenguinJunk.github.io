@@ -2,7 +2,7 @@
 title: The Minimum Viable Product
 date: 2023-01-21 18:20:00 -500 
 categories: [assignments, public administration, digital transformation]
-tags: [agile,MVP] #always lowercase
+tags: [agile,MVP] # always lowercase
 ---
 # From the Mostly Futile Ambition (MFA) to the Minimum Viable Product (MVP)
  
