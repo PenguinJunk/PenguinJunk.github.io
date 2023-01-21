@@ -1,6 +1,6 @@
 ---
 title: The Minimum Viable Product
-date: 2027-01-22 12:00:00 -500 
+date: 2027-01-20 12:00:00 -500 
 categories: [assignments, public administration, digital transformation]
 tags: [agile,MVP] #always lowercase
 ---
