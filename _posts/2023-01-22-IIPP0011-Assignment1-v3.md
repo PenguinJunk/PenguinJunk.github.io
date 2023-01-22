@@ -37,7 +37,7 @@ Once the service was running, [users could interact and provide feedback](https:
 
 By pushing out a live MVP so quickly, the GDS was opening itself up to [highly qualified criticism](https://web.archive.org/web/20120403153730/http://www.disambiguity.com/alphagov/) as well as potentially confusing their users. However, as a user who has waited years to access core digital services, I find such transparency refreshing. I also wonder if I should be using this approach more in my day job in data research. 
 
-# MVPs when there is with &#191;unavoidable? complexity
+# MVPs when there is &#191;unavoidable? complexity
 
 > As a _research scientist_ I need to _consider how the MVP concept could be applied to implementing digital AI transformations_ so that _I can understand if it could improve the value of my research effort_  
 
