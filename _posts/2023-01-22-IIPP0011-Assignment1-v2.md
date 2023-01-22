@@ -20,7 +20,8 @@ I am interested in exploring what MVPs look like in the wild, and in considering
 
 # A example MVP: alpha.gov.uk
 
-_NB: This section uses links to archived websites which will probably be slow to load_
+> _NB: This section uses links to archived websites which will probably be slow to load_
+{: .prompt-tip }
 
 > As _a student of Digital Transformation_ I need to _describe the MVP of gov.uk_ so that _I can cement my understanding of the MVP concept_ 
 
