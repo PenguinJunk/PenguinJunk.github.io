@@ -14,13 +14,15 @@ Instead, changing the focus to one of delivering a [Minimal Viable Product (MVP)
 
 Like the MFA, the MVP draws on an understanding of what the user wants. However, this research is more penetrative, digging further into what the users actually need, what they do and, importantly, why. This information is often summarised well in [user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories). By delivering a core requirement, simply and quickly - the [U.S. Digital Services Playbook](https://playbook.cio.gov/) states "no longer than three months from the beginning of the project" - the MVP addresses a need in a timely way.
 
-I am interested in exploring what MVPs look like in the wild and in considering the application of this concept to wider applications beyond digital. In later iterations of this post (see the next sections) I will review real-world and theoretical MVPs. I am also going to try to use the approach to address a common MFA of my own - the issue of writing for assignments. Therefore, this first section of this post was created to solve for the following user story:
+I am interested in exploring what MVPs look like in the wild and in considering the application of this concept to wider applications beyond digital. In later iterations of this post (see the next sections or future posts) I will review real-world and theoretical MVPs. I am also going to try to use the approach to address a common MFA of my own - the issue of writing for assignments. Therefore, this first section of this post was created to solve for the following user story:
 
 > As _an instructor_ I need to _observe my student's understanding of the concept MVP_ so that _I can determine their comprehension of the topic_
 
-# A example MVP
+# A example MVP: alpha.gov.uk
 
 > As _a student of Digital Transformation_ I need to _describe the MVP of gov.uk_ so that _I can cement my understanding of the concept_ 
+
+used [user needs analytics of existing government digital services](https://web.archive.org/web/20120403153730/http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/) to identify a candidate product
 
 [//]: # (These user needs can be prioritised to draw out the most useful and important fuctions, as well as any essential dependencies. Once the core user need has been understood, and the service features that are essential to meet this need have been identified, work can start on building the MVP that will solve a whole problem for users.)
 
@@ -32,3 +34,7 @@ I am interested in exploring what MVPs look like in the wild and in considering 
 
 [//]: # (short feedback cycles)
 
+[About Alpha.gov.uk (spring 2011)](https://web.archive.org/web/20120320215446/http://digital.cabinetoffice.gov.uk/about-alpha/)
+![The alpha.gov.uk website, accessed on web.archive.org](../assets/img/alpha.gov.uk_wayback_2011-05-11.png)
+[Alpha.gov.uk wrap-up](https://web.archive.org/web/20120403153706/http://digital.cabinetoffice.gov.uk/2011/07/29/alpha-gov-uk-wrap-up/)
+[lack of UX in alpha.gov.uk criticised](https://web.archive.org/web/20120404161547/http://www.disambiguity.com/alphagov/)
