@@ -21,10 +21,10 @@ timezone: Europe/London
 
 title: PenguinJunk                          # the main title
 
-tagline: Musings   # it will display as the sub-title
+tagline: Squaring the triangle # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Describe it.
+  I've spent nearly a quarter century in geospatial AI research and am now studying for an [MPA](https://www.ucl.ac.uk/bartlett/public-purpose/study/master-public-administration-mpa-innovation-public-policy-and-public-value) at the [UCL IIPP](https://www.ucl.ac.uk/bartlett/public-purpose/). Please find here Musings on Digital Transformation, Public Administration, Bureaucracy and what they mean to a public sector researcher.   
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://penguinjunk.github.io'
