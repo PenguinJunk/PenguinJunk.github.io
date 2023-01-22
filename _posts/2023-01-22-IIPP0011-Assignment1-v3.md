@@ -50,5 +50,7 @@ For me, a question remains about what MVPs look like when the solution is necess
 
 MVPs are clearly a superior approach to initiating progress towards a solution. There is, however, a degree to which they set the direction of progress such that decisions on each iteration of the product are biased by the nature of previous instances. This bias may result in some options never being explored. If the customer is served, this may be irrelevant. Of course, this issue exists with CSNs. Is there a moment, therefore, that the product that started as a MVP has become a CSN and its time to start over?
 
+[//]: # ([data science mvp](https://www.datascience-pm.com/data-science-mvp/))
+[//]: # ([agile AI](https://nexocode.com/blog/posts/agile-ai-project-management/))
 
 [//]: # (I speculated earlier about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - those CSNs. The current reorganisation arose from a frustration that the department was not designing enough new products. The approach has been to take solutions applied in other organisations and try to mould our organisation along the same lines. However, after several months (many more than "no longer than three months"), the reorganisation hasn't occurred, staff are uneasy and work is being impacted.)
