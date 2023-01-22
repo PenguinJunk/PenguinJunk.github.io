@@ -25,7 +25,7 @@ _NB: This section uses links to archived websites which will probably be slow to
 > As _a student of Digital Transformation_ I need to _describe the MVP of gov.uk_ so that _I can cement my understanding of the concept_ 
 
 The first release of the new website from Government Digital Service, [alpha.gov.uk](https://webarchive.nationalarchives.gov.uk/ukgwa/20111004104546/http://alpha.gov.uk/) was an MVP based on [user needs analytics of existing government digital services](https://web.archive.org/web/20120403153730/http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/). This effort identified that a candidate product would allow citizens to report a lost passport, search for the dates of national holidays, as well as linking to existing services on the "official" government website, [direct.gov.uk](https://web.archive.org/web/20050206042150/http://www.direct.gov.uk/Homepage/fs/en). 
-![The alpha.gov.uk website, accessed on web.archive.org](../assets/img/alpha.gov.uk_wayback_2011-05-11.png)
+
 The [prototype site](https://web.archive.org/web/20120320215446/http://digital.cabinetoffice.gov.uk/about-alpha/) offered a search option as its core function, where the existing direct.gov.uk, offered a list of links to different functions and departmental sites. To me, this is much like walking into a reception and going to a main desk to ask for help, rather than having to identify which of the 20 or more desks is the correct one to approach.
 
 Now that the service was running, [users could interact and provide feedback](digital.cabinetoffice.gov.uk/2011/07/29/alpha-gov-uk-wrap-up/). This is when the real user understanding can begin because, with the product _in their hands_, so to speak, users can say what they really want to do and what the outcomes of those actions should be. Possibly one of the biggest criticisms of alpha.gov.uk was the [lack of user experience](https://web.archive.org/web/20120403153730/http://www.disambiguity.com/alphagov/) (UX) input. All these intputs, from users and experts, are essential to developing the [next iteration of the service](https://web.archive.org/web/20111205164903/http://digital.cabinetoffice.gov.uk/2011/08/11/gov-uk-from-alpha-to-beta/).
@@ -44,3 +44,7 @@ Now that the service was running, [users could interact and provide feedback](di
 [//]: # (creates feedback loop)
 
 [//]: # (short feedback cycles)
+
+
+[//]: # ([The alpha.gov.uk website, accessed on web.archive.org]../assets/img/alpha.gov.uk_wayback_2011-05-11.png)
+![The alpha.gov.uk website, accessed on web.archive.org](/assets/img/alpha.gov.uk_wayback_2011-05-11.png)
