@@ -86,8 +86,8 @@ avatar: https://avatars.githubusercontent.com/u/5322329?v=4
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-comments: true
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+comments: 
+  active: true        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: "penguinjunk"   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
