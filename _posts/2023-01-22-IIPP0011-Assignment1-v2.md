@@ -2,7 +2,7 @@
 title: The Minimum Viable Product v2.0
 date: 2023-01-22 09:00:00 
 categories: [assignments, public administration, digital transformation]
-tags: [agile, MVP, user stories] # always lowercase
+tags: [agile, mvp, user stories] # always lowercase
 ---
 # From the Complex Sprawling Nonentity (CSN) to the Minimum Viable Product (MVP)
  
@@ -32,7 +32,7 @@ The [prototype site](https://gds.blog.gov.uk/about-alpha/) offered a search opti
 
 Now that the service was running, [users could interact and provide feedback](https://gds.blog.gov.uk/2011/07/29/alpha-gov-uk-wrap-up/). This is when the real user understanding can begin because, with the product _in their hands_ so to speak, users can say what they really want to do and what the outcomes of those actions should be. All these intputs, from users and experts, are essential to developing the [next iteration of the service](https://web.archive.org/web/20111205164903/http://digital.cabinetoffice.gov.uk/2011/08/11/gov-uk-from-alpha-to-beta/).
 
-By pushing out a live MVP so quickly, the GDS was opening itself up to [highly qualified criticism](https://web.archive.org/web/20120403153730/http://www.disambiguity.com/alphagov/) as well potentially creating confusion in their early adopters. However, I find such transparency a refreshing alternative as a user who has waited years to access core digital services in my workplace. I also wonder if the MVP concept is applicable in (largely) non-digital domains. 
+By pushing out a live MVP so quickly, the GDS was opening itself up to [highly qualified criticism](https://web.archive.org/web/20120403153730/http://www.disambiguity.com/alphagov/) as well potentially creating confusion in their early adopters. However, I find such transparency a refreshing alternative as a user who has waited years to access core digital services in my workplace. I also wonder if I should be using this approach more  this  researcher who has struggled to gain traction with . I also wonder if the MVP concept is applicable in (largely) non-digital domains. 
 
 
 
