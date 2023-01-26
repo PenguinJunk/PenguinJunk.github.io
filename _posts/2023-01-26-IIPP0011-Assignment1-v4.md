@@ -1,5 +1,5 @@
 ---
-title: The Minimum Viable Product v3.1
+title: The Minimum Viable Product v3.2
 date: 2023-01-26 16:00:00 
 categories: [assignments, public administration, digital transformation]
 tags: [agile, mvp, user stories] # always lowercase
@@ -10,15 +10,15 @@ Working in the public sector I have witnessed several large digital projects tha
 
 Usually after milestones have been missed, there is a time of reflection and then, after descoping, the project is sanctioned to continue. Afterall, the investment of so much finance, time, hopes and dreams, cannot be wasted. If ever this "Complex Sprawling Disappointment" (CSD) does deliver, too often is to an evolved user who now needs something rather different.
 
-Instead, changing to an Agile approach and delivering a [Minimal Viable Product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) ensures something valuable is delivered without too great an initial investment ([Schwartz, 2017 Ch3](https://itrevolution.com/product/a-seat-at-the-table/)). The MVP then serves the function of eliciting user feedback which can be used to further develop the product - or bin it, if that is what the feedback says.
+Instead, changing to an Agile approach and delivering a [Minimum Viable Product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) ensures something valuable is delivered without too great an initial investment ([Schwartz, 2017 Ch3](https://itrevolution.com/product/a-seat-at-the-table/)). The MVP then elicits user feedback which can be used to develop the product - or bin it, if that is what the feedback says.
 
-Both the CSD and the MVP incorporate user requirements. However, more penetrative user research that digs into what users actually need, what they do and, importantly, why. This information is often summarised in [user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories). By delivering a core requirement quickly - the [U.S. Digital Services Playbook](https://playbook.cio.gov/) states "no longer than three months from the beginning of the project" - the MVP addresses a [whole user need](https://apolitical.co/solution-articles/en/transforming-governments-website) in a timely way.
+Both the CSD and the MVP incorporate user requirements. However, Agile demands more penetrative research that digs into what users actually need, what they do and, importantly, why. This information is often summarised in [user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories). By delivering a core requirement quickly - the [U.S. Digital Services Playbook](https://playbook.cio.gov/) states "no longer than three months" - the MVP addresses a [whole user need](https://apolitical.co/solution-articles/en/transforming-governments-website) in a timely way.
 
-I am interested in exploring what MVPs look like in the wild. In later iterations of this post (next sections or future posts), I will review real-world MVPs. I will also apply the approach to address a CSD of my own - the way I approach assignment writing. Therefore, this first section of this post was created to address the following user story:
+I am interested in exploring what MVPs look like in the wild. In later iterations of this post (next sections or future posts), I will review real-world MVPs. I will also apply the approach to address a CSD of my own - the way I write assignments. Therefore, this first section of this post was created to address the following user story:
 
 > As _an instructor_ I need to _observe my student's understanding of the MVP concept_ so that _I can determine their comprehension of the topic_
 
-# A example MVP: alpha.gov.uk
+# An example MVP: alpha.gov.uk
 
 > _NB: This section uses links to archived websites which will probably be slow to load_
 {: .prompt-tip }
@@ -44,18 +44,18 @@ By pushing out a live MVP so quickly, the GDS was opening itself up to [highly q
 
 > As a _research scientist_ I need to _consider how the MVP concept could be applied when innovating with AI_ so that _I can understand how to improve the value of my work_  
 
-My day job is in researching the production of data in the public sector. We always have more requests for products than could ever be developed in time. The traditional approach is to research and build a solution for each product in turn. Instead, our team conceived of a method, using AI, that would fast-track the initial production of anticipated data products. We attempted to prove this approach by developing a scaled-down version of the solution - a naive-MVP (nMVP) if you like. This work encountered so many snags that, after four or so year, it is still ongoing.
+My day job is in researching the production of data in the public sector. We always have more requests for products than could ever be developed in time. The traditional approach is to research and build a solution for each product in turn. Instead, our team conceived of a method, using AI, that would fast-track the initial production of anticipated data products. We attempted to prove this approach by developing a scaled-down version of the solution - a naive-MVP (nMVP) if you like. This work encountered so many snags that, after four or so years, it is still ongoing.
 
 Our nMVP addressed just one customer data requirement. However, it contained the functionality that enabled the solution to be turned to other customer requirements. As such, the solution was massively over-engineered for the single customer requirement. Further, because the "generic backbone" of the solution was AI, scaling down system complexity (e.g. less data or simpler algorithms) can (and did) result in poor quality customer data. Therefore, this work has not gained traction with decision-makers who, understandably, want to see successful outcomes from the work.
 
-A coda to this story is that an alternative AI approach, which launched out of the same initial research and at around the same time as our nMVP, has gained traction and is delivering value to a series of customers. This method does need to be re-engineered for each customer but could use the "generic backbone" to reduce this effort. In this instance, the potential customer of the "generic backbone" is internal and currently happy without the product we are offering. I now appreciate how this is because what they currently have is the path of least resistence, our offering is still additional effort (as so plainly described in [Greenway et al., 2017, p156](https://www.andrewgreenway.com/book)).
+A coda to this story is that an alternative AI approach, which launched out of the same initial research and at around the same time as our nMVP, has gained traction and is delivering value to a series of customers. This method does need to be re-engineered for each customer but could use the "generic backbone" to reduce this effort. In this instance, the potential customer of the "generic backbone" is internal and currently happy without the product we are offering. I now appreciate how this is because our offering is still additional effort (as so plainly described in [Greenway et al., 2017, p156](https://www.andrewgreenway.com/book)).
 
 # MVP as direction-setter
 
 > As a _would-be decision-maker_ I need to _articulate my remaining uncertainties about MVPs_ so that _I can seek deeper understanding through discussion and observation_ 
 
-MVPs are clearly a superior approach to initiating progress towards a solution. They set the direction of progress such that decisions on each iteration of the product are conditioned by the previous iterations. It intrigues me that this may result in some options never being explored. If the customer is served, this may be irrelevant. However, as a researcher I am intrigued by the implications of these unexplored directions of discovery. 
+MVPs are clearly a superior approach to initiating progress towards a solution. They set the direction of progress such that decisions on each iteration of the product are conditioned by the previous iterations. This may result in some options never being explored. If the customer is served, this may be irrelevant. However, as a researcher I am intrigued by the implications of these unexplored directions of discovery. 
 
 I realise that, without strict application of standards at each iteration, the MVP could easily develop into something akin to the CSD - a product that is increasingly difficult to maintain or develop. Of course, customers may drift away from the product before that happens, people and their wants and needs change, sometimes very rapidly.
 
-The MVP sets a direction based on customers requirements but it will also change the expectations and, ultimately, the requirements of those, and other, customers. The process is evolutionary. This must mean that one of the determinants of the long term success of any product developing using iterative, Agile approaches, is the whole customer problem identified to be solved by that MVP.
+The MVP sets a direction based on customers' requirements but it will also change the expectations and, ultimately, the requirements of those, and other, customers. The process is evolutionary. This must mean that one of the determinants of the long term success of any product developed using iterative, Agile approaches, is the MVP.
