@@ -5,7 +5,7 @@ categories: [public administration, digital transformation]
 tags: [agile, mvp, user stories, organisational structure, writing] # always lowercase
 ---
 # MVP of organisation structure
-While [starting](IIPP0011-Assignment1-v1) [my previous post](IIPP0011-Assignment1-v4), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](IIPP0011-Assignment1-v4). 
+While [starting](../IIPP0011-Assignment1-v1/) [my previous post](../IIPP0011-Assignment1-v4/), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](../IIPP0011-Assignment1-v4/). 
 
 The current reorganisation arose from a frustration that the department was not creating enough new products. The approach to restructuring the department has been to try duplicate the structures applied in other organisations. However, after several months (many more than [U.S. Digital Services Playbook's](https://playbook.cio.gov/) "no longer than three months"), the reorganisation hasn't occurred, staff are uneasy (some have quit) and work is being impacted.
 
