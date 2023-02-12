@@ -7,7 +7,8 @@ tags: [agile, mvp, user stories, organisational structure, writing] # always low
 # MVP of organisation structure
 While [starting](../IIPP0011-Assignment1-v1/) [my previous post](../IIPP0011-Assignment1-v4/), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](../IIPP0011-Assignment1-v4/). 
 
-The current reorganisation arose from a frustration that the department was not creating enough new products. The approach to restructuring the department has been to try duplicate the structures applied in other organisations. However, after several months (many more than [U.S. Digital Services Playbook's](https://playbook.cio.gov/) "no longer than three months"), the reorganisation hasn't occurred, staff are uneasy (some have quit) and work is being impacted.
+The current reorganisation arose from a frustration that the department was not creating enough new products. The approach to restructuring the department has been to t
+ry duplicate the structures applied in other organisations. However, after several months (many more than [U.S. Digital Services Playbook's](https://playbook.cio.gov/) "no longer than three months"), the reorganisation hasn't occurred, staff are uneasy (some have quit) and work is being impacted.
 
 There is a sense of incongruity with this way of restructuring and the fact that "Agile" is identified as the chosen work culture throughout documentation created about the restructure. Therefore, it was with little satisfaction that I read in [Schwartz's Introduction to A Seat at the Table (2017)](https://itrevolution.com/product/a-seat-at-the-table/):
 
