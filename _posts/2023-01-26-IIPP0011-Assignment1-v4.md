@@ -25,10 +25,9 @@ I am interested in exploring what MVPs look like in the wild. In later iteration
 > As _a student of Digital Transformation_ I need to _describe the MVP of gov.uk_ so that _I can cement my understanding of the MVP concept_ 
 
 The first release of the new website from Government Digital Service (GDS), [alpha.gov.uk](https://webarchive.nationalarchives.gov.uk/ukgwa/20111004104546/http://alpha.gov.uk/) was an MVP based on [user needs analytics of existing government digital services](https://web.archive.org/web/20120403153730/http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/). This identified that a candidate product would allow citizens to report a lost passport, search for the dates of national holidays, as well as linking to existing services on the "official" government website, [direct.gov.uk](https://web.archive.org/web/20050206042150/http://www.direct.gov.uk/Homepage/fs/en). 
-<div style="text-align: left;"><figure>
-<img src="/assets/img/direct.gov.uk_wayback_2004_04_30.png" alt="The direct.gov.uk website, accessed on web.archive.org" width="362" /> &nbsp;<img src="/assets/img/alpha.gov.uk_wayback_2011-05-11.png" alt="The alpha.gov.uk website, accessed on web.archive.org" width="310"/>
-<figcaption style="color: gray; font-style: italic;">Left: The direct.gov.uk website. Right: The alpha.gov.uk website.</figcaption>
-</figure></div>
+![The direct.gov.uk website, accessed on web.archive.org](/assets/img/direct.gov.uk_wayback_2004_04_30.png){: .left w="390"}
+![The alpha.gov.uk website, accessed on web.archive.org](/assets/img/alpha.gov.uk_wayback_2011-05-11.png){: .left w="338"}
+_Left: The direct.gov.uk website. Right: The alpha.gov.uk website._
 
 The [prototype site](https://gds.blog.gov.uk/about-alpha/) offered a search option as its core function, where the existing direct.gov.uk, offered a list of links to functions and departmental sites. The difference is like having a main helpdesk in a reception rather than having to identify which of 20 or more desks is the correct one to approach.
 
@@ -36,8 +35,8 @@ With the service running, [users could interact and provide feedback](https://gd
 
 By pushing out an MVP so quickly, the GDS was opening itself up to [highly qualified criticism](https://web.archive.org/web/20120403153730/http://www.disambiguity.com/alphagov/) as well as potentially confusing their users. However, such transparency is refreshing. I should be using this approach more in my day job. 
 
-<div style="text-align: left;"><figure>
-<img src="https://cdn-images-1.medium.com/max/800/1*hJYxnfs6npD09IuX4606OQ.png" alt="Image from KDnuggets.com illustrating how each iteraction of a product should be a product in itself - i.e. if its a mode of transport, rather than iterating to deliver successive components of a car, each iteration delivers increasingly complex vehicles: skateboard, scooter, bike, etc." width="362" /><figcaption style="color: gray; font-style: italic;">Image from kdnuggets.com (<a href="https://www.kdnuggets.com/2018/07/minimum-viable-data-product.html">What is Minimum Viable (Data) Product?</a>) illustrating how each iteration of a product should be a product in itself</figcaption></figure></div>
+![Image from KDnuggets.com illustrating how each iteraction of a product should be a product in itself - i.e. if its a mode of transport, rather than iterating to deliver successive components of a car, each iteration delivers increasingly complex vehicles: skateboard, scooter, bike, etc.](https://cdn-images-1.medium.com/max/800/1*hJYxnfs6npD09IuX4606OQ.png)
+_Image from kdnuggets.com (<a href="https://www.kdnuggets.com/2018/07/minimum-viable-data-product.html">What is Minimum Viable (Data) Product?</a>) illustrating how each iteration of a product should be a product in itself_
 
 # MVPs in a more complex setting
 
