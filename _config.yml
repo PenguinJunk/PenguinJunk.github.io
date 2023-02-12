@@ -53,6 +53,7 @@ google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+
 google_analytics:
   id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
@@ -178,6 +179,11 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
+
+plugins:
+  - jekyll-figure
+
+imagesurl: "/assets/img/"
 
 exclude:
   - '*.gem'
