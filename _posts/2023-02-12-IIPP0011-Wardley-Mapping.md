@@ -17,7 +17,7 @@ I chose to map the planning portal used by local authorities to allow residents 
 
 The `Search` function, which I considered at this point to be the most important, uses a `GIS` to allow search within a region defined using a map. In turn this uses Land Registry (`LR`) data about property extents. The other functions (`Respond`, `Track` and `Submit`), require the users' account details and so need a customer relationship manager (`CRM`). In later iterations, I realised that address data (`AB`) would be required by both `Search` and the `CRM`.
 
-The information about planning applications would be drawn from, and submitted to, some form of database (`Case DB` -> planning application database, `PADB`) and, knowing how most applications are submitted with documents, some form of document store (`Doc Store`). In later iterations, I realised that there was some coordination function required between `PADB` and `Doc Store`, and also the `LR` and `AB` data, and so added a manager (`Appl^n^ Mgr` -> `PA Mgr`).
+The information about planning applications would be drawn from, and submitted to, some form of database (`Case DB` -> planning application database, `PADB`) and, knowing how most applications are submitted with documents, some form of document store (`Doc Store`). In later iterations, I realised that there was some coordination function required between `PADB` and `Doc Store`, and also the `LR` and `AB` data, and so added a manager (<code>Appl<sup>n</sup> Mgr</code> -> `PA Mgr`).
 
 These data, along with the data for the `CRM`, the `LR` and `AB` would all require a `Data Store`. The `GIS`, `CRM` and `PADB` would also need `Compute` and both the `Data Store` and `Compute` require `Power`, all of which are largely invisible to the user.
 
