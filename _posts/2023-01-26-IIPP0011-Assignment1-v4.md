@@ -3,6 +3,7 @@ title: The Minimum Viable Product v4.0
 date: 2023-01-26 22:00:00 
 categories: [assignments, public administration, digital transformation]
 tags: [agile, mvp, user stories] # always lowercase
+author: pj
 ---
 # From the Complex Sprawling Disappointment (CSD) to the Minimum Viable Product (MVP)
  

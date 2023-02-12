@@ -3,6 +3,7 @@ title: The Minimum Viable Non-Digital Product v0.2
 date: 2023-01-28 18:00:00 
 categories: [public administration, digital transformation]
 tags: [agile, mvp, user stories, organisational structure, writing] # always lowercase
+author: pj
 ---
 # MVP of organisation structure
 While [starting](../IIPP0011-Assignment1-v1/) [my previous post](../IIPP0011-Assignment1-v4/), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](../IIPP0011-Assignment1-v4/). 

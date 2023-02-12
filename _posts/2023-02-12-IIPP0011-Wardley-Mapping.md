@@ -3,6 +3,7 @@ title: Wardley Mapping
 date: 2023-02-12 16:00:00 
 categories: [assignments, digital transformation]
 tags: [Wardely mapping, user needs, value chain, technological evolution] # always lowercase
+author: pj
 ---
 # A Wardley Map of the Local Authority Planning Portal
 > Complete a Wardley Map for a government or university service/system of your choice. Please write a short statement (500-1000 words) about any insights doing this work revealed to you.
@@ -10,6 +11,9 @@ tags: [Wardely mapping, user needs, value chain, technological evolution] # alwa
 A Wardley Map is a way of describing a service or business. The map is anchored on the user of the service and demonstrates dependent components. The direction of the y-axis indicates the visibility of the component to the user, describing the value chain from those components that the user is least aware of or interested in to those that matter the most to the user. The x-axis describes the evolutionary stage of each component, from early, ***Genesis***, through ***Custom Built*** and ***Product (or rental)***, to late stage standardised ***Commodity (or utility)*** (the cheat sheet on Figure 17 of [Simon Wardley's Finding a path](https://medium.com/wardleymaps/finding-a-path-cdb1249078c0) gives the characteristics of each of these stages).
 
 ## Describing the value chain
+{% figure [caption:"bluergh"] [class:"whassat"] %}
+![fig](/assets/img/direct.gov.uk_wayback_2004_04_30.png)
+{% endfigure %}
 I chose to map the planning portal used by local authorities to allow residents to find, view and respond to planning applications. From recollection, I identified that users would need to be able to `Search` planning applications, `Respond` to existing ones, `Track` and receive notifications about applications and `Submit` their own planning applications. These four services are most visible to users.
 
 The `Search` function, which I considered at this point to be the most important, uses a `GIS` to allow search defined on a map. In turn this uses Land Registry (`LR`) data about property extents. The other functions (`Respond`, `Track` and `Submit`), require the users' account details and so need a customer relationship manager (`CRM`). In later iterations, I realised that address data (`AB`) would be required by both `Search` and the `CRM`.
