@@ -2,7 +2,7 @@
 title: A Wardley Map of the Local Authority Planning Portal 2
 date: 2023-02-13 11:00:00 
 categories: [assignments, digital transformation]
-tags: [wardley mapping, user needs, value chain, technological evolution] # always lowercase
+tags: [wardley mapping, user needs, value chain, technological evolution, digital planning] # always lowercase
 author: pj
 ---
 > Complete a Wardley Map for a government or university service/system of your choice. Please write a short statement (500-1000 words) about any insights doing this work revealed to you.
