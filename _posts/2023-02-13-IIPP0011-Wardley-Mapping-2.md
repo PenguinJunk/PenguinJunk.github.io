@@ -19,7 +19,6 @@ The other discovery, when visiting the planning portal, was that `GIS` is no lon
 ![Final iteration of the Wardley Map as described in the text](/assets/img/Wardley_map_final.png)
 _Final iteration of a Wardley Map of a local authority planning portal. See below for explanation of components._
 
----
 > **Components**:  
 `Submit`: Submit a planning application  
 `Respond`: Respond to a planning application  
@@ -36,8 +35,6 @@ _Final iteration of a Wardley Map of a local authority planning portal. See belo
 `Data Store`: Storage of data  
 `Compute`: Processing of data etc.  
 `Power`: Power required by compute and storage components  
----
-
 
 # Further insights
 This final version of the map is an attempt to represent what _is_ (in black) with an acknowledgement of what _should be_ present (in grey). The map also places components on the evolution axis in the position that I believe they fall in this particular service, despite some components, such as `GIS`, `PA Mgr` and `PADB`, having similar but more evolved components in other services. These components are likely to progress relatively quickly to the right, along with the `Submit` component, as Open Digital Planning develops. 
