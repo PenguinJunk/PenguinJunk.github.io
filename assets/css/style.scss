@@ -11,7 +11,10 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-/*a { color: #cc7a00;}*/
+/*
+a { color: #cc7a00;}
+h1 { color: #cc6d00;}
+*/
 /* unvisited link */
 a:link {
   color: red;
@@ -32,5 +35,4 @@ a:active {
   color: blue;
 }
 
-h1 { color: #cc6d00;}
 .site-title a { color: #cc00aa;}
