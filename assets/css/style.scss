@@ -20,12 +20,11 @@ flex-column align-items-end
 */
 
 div.site-title a { color: #cc00aa;}
-
-.site-subtitle font-italic { color: #00cc11;}
+div.site-subtitle font-italic { color: #00cc11;}
 
 /* unvisited link */
 a:link {
-  color: rgb(0, 204, 255);
+  color: #cc5c00;
 }
 
 /* visited link */
