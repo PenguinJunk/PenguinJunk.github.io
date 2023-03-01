@@ -16,13 +16,14 @@ a { color: #cc7a00;}
 h1 { color: #cc6d00;}
 .profile-wrapper text-center
 .site-title
+flex-column align-items-end
 */
-/* unvisited link */
 
-.d-flex flex-column align-items-end a { color: #cc00aa;}
+.d-flex  a { color: #cc00aa;}
 
 .site-subtitle font-italic { color: #00cc11;}
 
+/* unvisited link */
 a:link {
   color: rgb(0, 204, 255);
 }
