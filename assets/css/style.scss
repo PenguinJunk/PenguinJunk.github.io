@@ -19,7 +19,6 @@ h1 { color: #cc6d00;}
 flex-column align-items-end
 */
 
-#sidebar .site-title a { color: #cc00aa;}
-.site-subtitle { color: #00cc11;}
-
-a { color: #cc5c00;}
+html[data-mode=dark] {
+  --link-underline-color: darkorange;
+}
