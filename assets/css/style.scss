@@ -16,6 +16,9 @@ a { color: #cc7a00;}
 h1 { color: #cc6d00;}
 */
 /* unvisited link */
+
+.site-title a { color: #cc00aa;}
+
 a:link {
   color: red;
 }
@@ -34,5 +37,3 @@ a:hover {
 a:active {
   color: blue;
 }
-
-.site-title a { color: #cc00aa;}
