@@ -19,25 +19,7 @@ h1 { color: #cc6d00;}
 flex-column align-items-end
 */
 
-div.site-title a { color: #cc00aa;}
-div.site-subtitle font-italic { color: #00cc11;}
+.site-title { color: #cc00aa;}
+.site-subtitle { color: #00cc11;}
 
-/* unvisited link */
-a:link {
-  color: #cc5c00;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-}
+a { color: #cc5c00;}
