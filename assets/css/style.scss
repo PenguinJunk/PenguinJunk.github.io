@@ -20,5 +20,15 @@ flex-column align-items-end
 */
 
 html[data-mode=dark] {
+  --link-color: darkorange;
   --link-underline-color: darkorange;
+  --sidebar-active-color: orange;
+}
+
+#sidebar .site-title a {
+  color: darkorange;
+}
+
+#sidebar .site-subtitle {
+  color: darkorange;
 }
