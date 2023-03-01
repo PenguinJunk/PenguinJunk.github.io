@@ -11,18 +11,16 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-/*
-a { color: #cc7a00;}
-h1 { color: #cc6d00;}
-.profile-wrapper text-center
-.d-flex
-flex-column align-items-end
-*/
-
 html[data-mode=dark] {
   --link-color: #a54400;
   --link-underline-color: #a54400;
   --sidebar-active-color: #883300;
+}
+
+html[data-mode=light] {
+  --link-color: #853700;
+  --link-underline-color: #853700;
+  --sidebar-active-color: #682800;
 }
 
 #sidebar .site-title a {
