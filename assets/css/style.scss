@@ -10,3 +10,31 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+html[data-mode=dark] {
+  --link-color: #bb4400;
+  --link-underline-color: #bb4400;
+  --sidebar-active-color: #aa3300;
+}
+
+html[data-mode=light] {
+  --link-color: #a54400;
+  --link-underline-color: #a54400;
+  --sidebar-active-color: #883300;
+}
+
+#sidebar .site-title a {
+  color: #a54400;
+}
+
+#sidebar .site-subtitle {
+  color: #a54400;
+}
+
+h1 {
+  color: #a54400;
+}
+
+#sidebar #avatar>a {
+  border: 2px solid #a54400;
+}
