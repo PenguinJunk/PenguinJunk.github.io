@@ -1,6 +1,6 @@
 ---
 title: The Fragility of (Public) Good v1.0
-date: 2023-03-14 11:00:00 
+date: 2023-03-16 18:00:00
 categories: [assignments, digital transformation]
 tags: [trust, data, algorithms, power] # always lowercase
 author: pj

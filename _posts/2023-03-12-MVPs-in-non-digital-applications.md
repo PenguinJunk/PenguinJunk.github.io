@@ -1,6 +1,6 @@
 ---
 title: The Minimum Viable Non-Digital Product v1.0
-date: 2023-03-16 18:00:00 
+date: 2023-03-12 18:00:00 
 categories: [public administration, digital transformation]
 tags: [agile, mvp, user stories, organisational structure, writing] # always lowercase
 author: pj
