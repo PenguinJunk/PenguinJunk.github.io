@@ -6,7 +6,7 @@ tags: [agile, mvp, user stories, organisational structure, writing] # always low
 author: pj
 ---
 # MVP of organisation structure
-While [starting](../IIPP0011-Assignment1-v1/) [my previous post](../IIPP0011-Assignment1-v4/), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](../IIPP0011-Assignment1-v4/). 
+While [starting](../IIPP0011-Assignment1-v1/) [a previous post](../IIPP0011-Assignment1-v4/), I speculated about specifying MVPs for non-digital solutions. In an idle conversation with a colleague recently, I suggested that the approach being used for their department's latest reorganisation was much like past examples of over-scoped IT projects - [Complex Sprawling Disappointments (CSDs)](../IIPP0011-Assignment1-v4/). 
 
 The current reorganisation arose from a frustration that the department was not creating enough new products. The approach to restructuring the department has been to try to duplicate the structures applied in other organisations. However, after a year (many more than [U.S. Digital Services Playbook's](https://playbook.cio.gov/) "no longer than three months"), the reorganisation is only just being rolled out. In the mean time, staff have been unsettled (some have quit) and work is being impacted.
 
@@ -36,6 +36,6 @@ I love this and wonder, could it work? Changing to this approach takes quite som
 
 # MVP of a blog post
 
-For [an earlier post](../IIPP0011-Assignment1-v4/), I attempted to apply a _Minimum Viable Product_ (MVP) approach to writing. I did find that identifying what the whole 'product' (the post) should _do_ (the user story) did help me structure my writing and as a result it was relatively fast to produce. (That said, I also spent many hours in the night thinking about the post before writing it). I'll be honest - I haven't stuck to this approach, preferring to keep a mental picture of some of the structure and write within this. On several occasions, the end of the post has been quite different to what I expected when I started. You are, of course, welcome to look at the [version history](https://github.com/PenguinJunk/PenguinJunk.github.io) and decide for yourself how Agile I am being.
+For [that earlier post](../IIPP0011-Assignment1-v4/), I attempted to apply a _Minimum Viable Product_ (MVP) approach to writing. I did find that identifying what the whole 'product' (the post) should _do_ (the user story) did help me structure my writing and as a result it was relatively fast to produce. (That said, I also spent many hours in the night thinking about the post before writing it). I'll be honest - I haven't stuck to this approach, preferring to keep a mental picture of some of the structure and write within this. On several occasions, the end of the post has been quite different to what I expected when I started. You are, of course, welcome to look at the [version history](https://github.com/PenguinJunk/PenguinJunk.github.io) and decide for yourself how Agile I am being.
 
 Also, I would love feedback, please pop your thoughts in the comments box at the bottom!
