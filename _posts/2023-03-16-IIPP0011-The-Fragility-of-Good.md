@@ -16,8 +16,9 @@ I am becoming increasingly aware of how data and tools for public 'good' can hav
 There are two approaches to dealing with fragile borders. The first is to fortify them. This is the purpose of legislation and regulation that defines what is 'good'. However, these are too often limited by the scope of the small group of people creating them. This means that even the most socially-minded laws and regulations rarely keep up with developing technology or society. Consider [the damage that continuing lack of data privacy](https://theswaddle.com/what-is-a-constant-lack-of-digital-privacy-doing-to-our-mental-health/) is causing to us all. Too often people suffer indignity and abuse before statutary instruments are created or updated.
 
 Another approach is to embrace fragility and seek to imagine its every outcome. With specific reference to poverty, Eubanks proposes a gut-check:
-* Does the tool increase the self-determination and agency of the poor?
-* Would the tool be tolerated if it was targeted at non-poor people?
+> Does the tool increase the self-determination and agency of the poor?
+
+> Would the tool be tolerated if it was targeted at non-poor people?
 
 This is a simple step, but still somewhat externalises the experience of 'the poor'*. Zimeta** takes us further by identifying that it is not just goodness that is fragile but also power. Public services tend to be designed by those with some power and applied to those with little. Public services, and data infrastructure, should therefore be designed as if power could be reversed at any time. This can be grasped as the [Maximin Principle](https://en.wikipedia.org/wiki/Minimax#:~:text=In%20philosophy%2C%20the,members%20of%20society%22) - the outcome of [John Rawls](https://en.wikipedia.org/wiki/John_Rawls)'s thought experiment about the world that we'd create if we did not yet know our place in it. The principle is that society should maximise the welbeing of those at the most minimal level. Yet, none of us are ignorant of our place in the world and we cannot assume that stewards of data and creators of tools have the imagination to fully apply gut-checks, maximin or grasp the _Fragility of Power_. 
 
@@ -30,7 +31,7 @@ and their [Theory of Change](https://docs.google.com/document/d/1uI500_Qsu3NK-8z
 This participatory approach to data stewardship does not rely on the limited imagination of a few. Instead, if done well, it uses real-world experience and insight to decide the limits of 'good' and 'power' and to understand how they can be reversed. In my property boundary example above, a much better approach would have been for the work to be undertaken by a group that represented the diversity of that society. As fragile habitats are strengthened by increasing their biodiversity, fragile goods are strengthened by increasing the diversity of perspectives. Approaches to public participation is a rapidly developing area of research but there is already a wealth of [resources on how to do it well](https://involve.org.uk/resources/methods).
 
 Towards the end of her talk, Zimeta comments that the knowledge of fragility means "living with humility". Public participation is a practical expression of that humility and I hope it will become commonplace in the coming few years.
-___
+<hr>
 *I don't intend to be negative about Eubanks' book - not only is it a much deeper study than I convey in this post, it is also an extremely accessible read and thus itself obeys the maximin principle 
 
 **If you have not seen [Zimeta's talk](https://www.conferencecast.tv/talk-40011-aiuk-spotlight-talks-session-1), please do - it covers so much more than I have touched on in this post.
