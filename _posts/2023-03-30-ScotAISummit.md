@@ -3,7 +3,7 @@ title: Against Product
 date: 2023-03-30 18:00:00
 categories: [digital transformation]
 tags: [technological evolution]
-author: Anon
+author: mz
 ---
 
 I'm at the Scottish AI Summit and connecting with it better than last year. It's in part a shift in practise, what seemed aspirational and abstract for policymakers in the past is coming alive in their heads for them now.
