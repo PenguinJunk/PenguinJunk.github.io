@@ -1,8 +1,9 @@
+mz:
+  name: metazool
+  url: https://github.com/metazool
+  
 pj:
   name: PenguinJunk
   mastodon: https://climatejustice.rocks/@PenguinJunk
   url: https://github.com/penguinjunk
-
-mz:
-  name: metazool
-  url: https://github.com/metazool
+  
