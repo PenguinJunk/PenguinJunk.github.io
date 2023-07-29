@@ -24,9 +24,9 @@ Markets are a recent emergence from the natural character of our species to inte
 
 There's a deep theme here to understand how we channel one of our most human characteristics into improving our world, from how we run our organisations to how we solve our social, nature and climate crises. I intend to explore this much more over the coming year. Also, I haven't missed the contradiction that I arrived at these thoughts without discussion - but I couldn't have grasped any of this without the help of many deeply considered texts and talks. Further, expressing these ideas in an undescoverable blog is quite ironic. But the possibility that someone may one day stumble over these words has made me consider them more carefully and formulate my own thoughts with greater clarity then when I began writing. That's powerful.
 
-[^1] Of course, I'm drawing on [Scott's Seeing Like a State (2020)](https://en.wikipedia.org/wiki/Seeing_Like_a_State) in this idea of "thin" - what results when settlements are planned rather than letting them grow and evolve by the actions of society. 
+[^1]: Of course, I'm drawing on [Scott's Seeing Like a State (2020)](https://en.wikipedia.org/wiki/Seeing_Like_a_State) in this idea of "thin" - what results when settlements are planned rather than letting them grow and evolve by the actions of society. 
  
-[^2] I've used [Song & Simpson (2018)](https://onlinelibrary.wiley.com/doi/10.1002/app5.249)'s citation of [Rodrik, 2007](https://doi.org/10.2307/j.ctvcm4jbh), to identify three of the four external mechanisms that markets require. The other is mechanism is the creation of the market itself.  
+[^2]: I've used [Song & Simpson (2018)](https://onlinelibrary.wiley.com/doi/10.1002/app5.249)'s citation of [Rodrik, 2007](https://doi.org/10.2307/j.ctvcm4jbh), to identify three of the four external mechanisms that markets require. The other is mechanism is the creation of the market itself.  
 
 # References
 
