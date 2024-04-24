@@ -1,8 +1,8 @@
 ---
 title: Weeknotes 1 - Making a Start
 date: 2024-04-24 10:00:00 BST
-categories: [policy, science, thesis]
-tags: [] # always lowercase
+categories: [weeknotes, thesis]
+tags: [science, policy, rationalism] # always lowercase
 author: pj
 ---
 ## Introduction to weeknotes
@@ -17,7 +17,7 @@ My interest, since I started the MPA in 2022 (although I'd not formed the words 
 
 ![Mentions of climate-related terms in UK Parliamentary debates)](/assets/img/climate-change-parliamentary-mentions.png){: .right w="400"}
 
-My last few assignments have helped me explore these ideas a little. Each assignment was a rush and felt very naive, but I will link them once they've been marked. In the autumn term, I looked at the [UK AI Safety Summit](https://github.com/PenguinJunk/mpa-assignments/blob/main/The_UK_AI_Safety_Summit_and_the_Policy_Entrepreneurs_Exploiting_its_Windows_of_Opportunity.pdf) to try to explore how this followed, and would impact, UK AI safety policy. This term, I looked at parliamentary mentions of various terms (and attempted to perform a topic and frame analysis of the debates the terms were mentioned in). Both "climate change" and "artificial intelligence" are very spiky, suddenly errupting before subsiding. Probably this is not a surprise, but it hints at hype bubbles, which burst. Interstingly, "tobbacco" has no such pattern.
+My last few assignments have helped me explore these ideas a little. Each assignment was a rush and felt very naive, but I will link them once they've been marked. In the autumn term, I looked at the [UK AI Safety Summit](https://github.com/PenguinJunk/mpa-assignments/blob/main/The_UK_AI_Safety_Summit_and_the_Policy_Entrepreneurs_Exploiting_its_Windows_of_Opportunity.pdf) to try to explore how this followed, and would impact, UK AI safety policy. This term, I looked at parliamentary mentions of various terms (and attempted to perform a topic and frame analysis of the debates the terms were mentioned in). Both "climate change" and "artificial intelligence" are very spiky, suddenly errupting before subsiding. Probably this is not a surprise, but it hints at hype bubbles, which burst. Interstingly, "tobacco" has no such pattern.
 
 
 In another assignment, I considered how citizen participatory approaches to design could help close the science-policy gap. My framework was a triangle: citizen-science-policy (CSP). However, whilst writing this piece I understood (mostly from what I was reading, I take little credit) how much certain types of knowledge are revered over others, and how damaging this is. The effect of this was less of a shock to my sense of identity as a scientist, but as a "finding of words" to describe the unease I've been feeling for a long time (which partly drove me back into education).
