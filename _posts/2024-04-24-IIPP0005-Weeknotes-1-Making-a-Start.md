@@ -5,10 +5,10 @@ categories: [policy, science, thesis]
 tags: [] # always lowercase
 author: pj
 ---
-# Introduction to weeknotes
+## Introduction to weeknotes
 Its been a while, its been exhausting, and I'm far from rested. However, I am going to *try* to write a short summary of each week over the next three months to record my progress and the development of my ideas. I'm on my very last module for my MPA - the thesis (in other UK unis we'd call this a dissertation, thesis sounds very grand!). These "weeknotes" will be scrappy, inarticulate and naive. If anyone does stumble on them, please do send a note of encouragement.
 
-# Term 3 week 1 - finding a topic and research question
+## Term 3 week 1 - finding a topic and research question
 This week is bootcamp week on the MPA. About 2/3s (maybe 3/4s) of the cohort will being doing placements as groups in various organisations. The rest of us are writing theses. These are all roughly themed around policy. I've been relieved to find that I am like many whom have little in the way of a strong idea, just an area of interest. And, I have to say, what fascinating areas are being looked at - from the heuristics used in policymaking, to policies on arts. Also philanthropy, citizen engagement and lots on climate.
 
 My interest, since I started the MPA in 2022 (although I'd not formed the words around it then) is the gap between science and policy. I'm particularly thinking climate and biophysical science, and recent AI x-risk wierdness, because these have been areas of work, study and activism for me for decades. A quick skim of research article titles indicates that health is righ up there too. Actually, I spoke to [Professor John Boswell](https://www.southampton.ac.uk/people/5xbhpx/professor-john-boswell) a while back and already have a tonne of fantastic pointers on this gap that I now have time to follow up.
