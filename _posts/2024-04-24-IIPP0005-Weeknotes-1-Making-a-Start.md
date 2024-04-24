@@ -1,6 +1,6 @@
 ---
 title: Weeknotes 1: Making a Start
-date: 2024-04-24 11:00:00 BST
+date: 2024-04-24 10:00:00 BST
 categories: [policy, science, thesis]
 tags: [] # always lowercase
 author: pj
