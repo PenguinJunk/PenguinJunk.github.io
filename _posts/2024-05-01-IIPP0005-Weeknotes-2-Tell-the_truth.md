@@ -9,7 +9,7 @@ author: pj
 ## Contents
 1. [Developing my weeknote style](#developing-my-weeknote-style)
 1. [Emotion, justice, ethics, controversy and the irrationalities of science and policy] (#emotion-justice-ethics-controversy-and-the-irrationalities-of-science-and-policy)
-1. [TL;DR: policy entrepreneurs and self-censuring scientists, two sides of the same coin?](#tl-dr-policy-entrepreneurs-and-self-censuring-scientists-two-sides-of-the-same-coin)
+1. [TL;DR: policy entrepreneurs and self-censuring scientists, two sides of the same coin?](#tldr-policy-entrepreneurs-and-self-censuring-scientists-two-sides-of-the-same-coin)
 1. [References](#references)
 
 ## Developing my weeknote style
