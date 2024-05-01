@@ -1,5 +1,5 @@
 ---
-title: Weeknotes 1 - Tell the Truth
+title: Weeknotes 2 - Tell the Truth
 date: 2024-05-01 17:30:00 BST
 categories: [weeknotes, thesis]
 tags: [science, policy, rationalism] # always lowercase
@@ -8,7 +8,7 @@ author: pj
 
 ## Contents
 1. [Developing my weeknote style](#developing-my-weeknote-style)
-1. [Emotion, justice, ethics, controversy and the irrationalities of science and policy] (#emotion-justice-ethics-controversy-and-the-irrationalities-of-science-and-policy)
+1. [Emotion, justice, ethics, controversy and the irrationalities of science and policy](#emotion-justice-ethics-controversy-and-the-irrationalities-of-science-and-policy)
 1. [TL;DR: policy entrepreneurs and self-censuring scientists, two sides of the same coin?](#tldr-policy-entrepreneurs-and-self-censuring-scientists-two-sides-of-the-same-coin)
 1. [References](#references)
 
