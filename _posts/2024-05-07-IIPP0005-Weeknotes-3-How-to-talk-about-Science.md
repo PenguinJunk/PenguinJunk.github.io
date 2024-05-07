@@ -1,6 +1,6 @@
 ---
 title: Weeknotes 3 - How to Talk About Science
-date: 2024-05-07 13:00:00 BST
+date: 2024-05-07 13:30:00 BST
 categories: [weeknotes, thesis]
 tags: [science, policy, truth, emotion] # always lowercase
 author: pj
@@ -50,7 +50,7 @@ Cayley and Schaffer (2009)[^CayleyS2009]) - or if some topics are so important t
 
 ## Fear, hope, and agency
 
-![Clare Farrell of Extinction Rebellion, Humanity Project, Hard Art etc, and someone enjoying free wine](/assets/img/ClareFarrell_pj.png){: .right w="350"}A fundamental question in the works described by Radin (2019)[^Radin2019] is whether *fear* is an appropriate means by which critical science knowledge is conveyed. This took me back to the MPA Summit a couple of weeks ago. Based on psychology and neuroscience, Kris De Meyer had presented 7 insights (described in De Meyer *et al*. (2022)[^DeMeyerHGJR2022]). One was the insight that making people fearful isn’t a useful tactic motivating climate action. This was picked up by a speaker later in the day and consequently disputed by our keynote speaker, Clare Farrell, in a strange sort of *Chinese Whispers*. Clare’s perspective echoes the wider Extinction Rebellion observation that *hope* has been compulsory for much of climate communication for decades and has not led to climate action. But what Kris De Meyer was saying was that fear only motivates a small minority (probably limited by circumstances as also described in Kleres and Wettergren (2017)[^KleresA2017]), and it is more effective to motivate by conveying a message of their own agency (the “agency-provoking stories” mentioned above).
+![Clare Farrell of Extinction Rebellion, Humanity Project, Hard Art etc, and someone enjoying free wine](/assets/img/ClareFarrell_pj.jpg){: .right w="350"}A fundamental question in the works described by Radin (2019)[^Radin2019] is whether *fear* is an appropriate means by which critical science knowledge is conveyed. This took me back to the MPA Summit a couple of weeks ago. Based on psychology and neuroscience, Kris De Meyer had presented 7 insights (described in De Meyer *et al*. (2022)[^DeMeyerHGJR2022]). One was the insight that making people fearful isn’t a useful tactic motivating climate action. This was picked up by a speaker later in the day and consequently disputed by our keynote speaker, Clare Farrell, in a strange sort of *Chinese Whispers*. Clare’s perspective echoes the wider Extinction Rebellion observation that *hope* has been compulsory for much of climate communication for decades and has not led to climate action. But what Kris De Meyer was saying was that fear only motivates a small minority (probably limited by circumstances as also described in Kleres and Wettergren (2017)[^KleresA2017]), and it is more effective to motivate by conveying a message of their own agency (the “agency-provoking stories” mentioned above).
 
 ## TL;DR the interpretive nature of science-policy
 
@@ -78,15 +78,13 @@ A theme running through the works that I’ve read/heard these last few days is 
 
 [^COAD2024]:COAD (2024). Denial, Disinformation, and Doublespeak: Big Oil’s Evolving Efforts to Avoid Accountability for Climate Change. Joint Staff Report. House Committee on Oversight and Accountability Democrats and Senate Committee on the Budget. eprint: [https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf](https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf).
 
-[^DeMeyerCMS2020]:De Meyer, Kris *et al*.(2020). “Transforming the stories we tell about climate change:
-from ‘issue’ to ‘action’”. In: Environmental Research Letters 16.1. DOI: 10.1088/1748-9326/abcd5a. URL: [https://iopscience.iop.org/article/10.1088/1748-9326/abcd5a](https://iopscience.iop.org/article/10.1088/1748-9326/abcd5a).
+[^DeMeyerCMS2020]:De Meyer, Kris *et al*.(2020). “Transforming the stories we tell about climate change: from ‘issue’ to ‘action’”. In: Environmental Research Letters 16.1. DOI: 10.1088/1748-9326/abcd5a. URL: [https://iopscience.iop.org/article/10.1088/1748-9326/abcd5a](https://iopscience.iop.org/article/10.1088/1748-9326/abcd5a).
 
 [^DeMeyerHGJR2022]:De Meyer, Kris *et al*.(2022). Net Zero Innovation Programme: Seven Insights to Manage the Complex Nature of Climate Action Delivery. URL: [https://www.ucl.ac.uk/climate-action-unit/sites/climate_action_unit/files/seven_insights_-_summary_and_where_to_find_more.pdf](https://www.ucl.ac.uk/climate-action-unit/sites/climate_action_unit/files/seven_insights_-_summary_and_where_to_find_more.pdf).
 
 [^DetertTS2008]:Detert, James R. *et al*.(2008). “Moral disengagement in ethical decision making: A study of antecedents and outcomes”. In: Journal of Applied Psychology 93 (2). DOI: 10.1037/0021-9010.93.2.374. URL: [https://oce-ovid-com.libproxy.ucl.ac.uk/article/00004565-200803000-00010/HTML](https://oce-ovid-com.libproxy.ucl.ac.uk/article/00004565-200803000-00010/HTML).
 
-[^Jasanoff2019]:Jasanoff, Sheila (2019). “Controversy Studies”. In: The Blackwell Encyclopedia of Sociology. 
-URL: [https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeosc130.pub2](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeosc130.pub2).
+[^Jasanoff2019]:Jasanoff, Sheila (2019). “Controversy Studies”. In: The Blackwell Encyclopedia of Sociology. URL: [https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeosc130.pub2](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeosc130.pub2).
 
 [^Killick2023]:Killick, Anna (2023). Politicians and Economic Experts: The Limits of Technocracy. eng. 1st ed. Newcastle Upon Tyne: Agenda Publishing. ISBN: 1788215656. URL: [https://www.cambridge.org/core/books/politicians-and-economic-experts/CB80182085E01CC8186F4F5FA97A66B0](https://www.cambridge.org/core/books/politicians-and-economic-experts/CB80182085E01CC8186F4F5FA97A66B0).
 
