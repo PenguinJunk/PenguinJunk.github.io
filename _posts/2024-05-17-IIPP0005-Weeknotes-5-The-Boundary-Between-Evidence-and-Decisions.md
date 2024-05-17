@@ -6,6 +6,15 @@ tags: [science, emotion, climate, evidence] # always lowercase
 author: pj
 ---
 
+## Contents
+1. [The Science-Policy Gap](#the-science-policy-gap)
+1. [Characterising the structure of evidence-decisions](#characterising-the-structure-of-evidence-decisions)
+1. [Discussion around objectivity v usability](#discussion-around-objectivity-v-usability)
+1. [Roles in the evidence-decisions interface](#roles-in-the-evidence-decisions-interface)
+1. [Climate psychology and communication of evidence](#climate-psychology-and-communication-of-evidence)
+1. [TL;DR Time to put away the scattergun](#tldr-time-to-put-away-the-scattergun)
+1. [References](#references)
+
 Weeknotes are my way of revisiting my readings, research and general notes from the week. They are reflections that link and contrast experiences and observations that happen to have occurred in a short period of time. I am writing these notes quickly, doing my best to correctly represent the sources, but I would love to learn if I am mistaken in my understanding in any way. You can contact me on https://climatejustice.social/@PenguinJunk. 
 
 ## The Science-Policy Gap
