@@ -40,11 +40,6 @@ Reading these examples finally gave me a sense of what influencing policy means,
 {:.image-caption}
 Figure 2: *The distribution of the 107 extracted examples according to the REF 2021 Unit of assessment name, My judgement of the endeavour type, My [rough and ready] impact category and the REF 2021 Summary impact type*
 
-| ![sankey](/assets/img/REF_extract_sankey.png){: w="800"} |
-|:--|
-| Figure 2: *The distribution of the 107 extracted examples according to the REF 2021 Unit of assessment name, My* | 
-| *judgement of the endeavour type, My [rough and ready] impact category and the REF 2021 Summary impact type* |
-
 I believe the REF 2021 data provide some good suggestions for research to delve more deeply into and scientists to interview regarding approaches used when influencing policy.
 
 ### Literature on policy impact
