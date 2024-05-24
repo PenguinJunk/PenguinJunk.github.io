@@ -35,7 +35,7 @@ Reading these examples finally gave me a sense of what influencing policy means,
 
 > “IoZ researchers have trained scientists, built research capacity in multiple countries, developed diagnostic tools, and successfully campaigned for the diseases to be listed as notifiable diseases by the OIE World Organization for Animal Health” 
 
-![Figure 2 shows the distribution of the 107 extracted examples according to the REF 2021 Unit of assessment name, My judgement of the endeavour type, My [rough and ready] impact category and the REF 2021 Summary impact type](/assets/img/REF_extract_sankey.png){: .right w="400"}
+![Figure 2 shows the distribution of the 107 extracted examples according to the REF 2021 Unit of assessment name, My judgement of the endeavour type, My [rough and ready] impact category and the REF 2021 Summary impact type](/assets/img/REF_extract_sankey.png){: .right w="800"}
 
 I believe the REF 2021 data provide some good suggestions for research to delve more deeply into and scientists to interview regarding approaches used when influencing policy.
 
