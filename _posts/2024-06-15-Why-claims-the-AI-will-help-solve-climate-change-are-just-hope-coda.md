@@ -1,5 +1,5 @@
 ---
-title: Why claims that AI will help solve climate change are just #HopeCoda
+title: Why claims that AI will help solve climate change are just hope coda
 date: 2024-06-15 22:30:00 BST
 categories: [occasional thoughts]
 tags: [technology, AI, climate] # always lowercase
@@ -27,7 +27,7 @@ Firstly, what are the general issues that we need to address to solve climate ch
 1. F-gases
 1. greenhouse gas removals
 
-This tell us *materially* what we need to do but there are still social and political - systemic - issues that are preventing action. Stoddard *et al*. (2021)  looked through 9 lenses on why we haven't started reducing greenhouse gas emissions in 3 decades:
+This tell us *materially* what we need to do but there are still social and political - systemic - issues that are preventing action. [Stoddard *et al*. (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-environ-012220-011104)  looked through 9 lenses on why we haven't started reducing greenhouse gas emissions in 3 decades:
 1. climate governance
 1. the vested interests of the fossil fuel industry
 1. geopolitics and militarism (manifest in global extractivism)
