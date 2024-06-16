@@ -1,7 +1,7 @@
 ---
 title: Guest Post - Against Product
 date: 2023-03-30 18:00:00
-categories: [occassional thoughts]
+categories: [occasional thoughts]
 tags: [technological evolution]
 author: mz
 ---

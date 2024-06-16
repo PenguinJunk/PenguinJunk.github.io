@@ -1,7 +1,7 @@
 ---
 title: Markets as an expression of humanity
 date: 2023-07-29 11:00:00 BST
-categories: [occassional thoughts]
+categories: [occasional thoughts]
 tags: [power, markets, economics, democracy, deliberation] # always lowercase
 author: pj
 ---
