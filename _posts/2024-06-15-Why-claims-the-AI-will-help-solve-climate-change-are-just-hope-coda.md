@@ -38,7 +38,7 @@ This tell us *materially* what we need to do but there are still social and poli
 1. high-carbon lifestyles
 1. social imaginaries
 
-Th decomposition of the problem of climate change to both material and systemic aspects is useful for considering where any possible solution can apply.
+This decomposition of the problem of climate change to both material and systemic aspects is useful for considering where any possible solution can apply.
 
 ## What can AI solve?
 
