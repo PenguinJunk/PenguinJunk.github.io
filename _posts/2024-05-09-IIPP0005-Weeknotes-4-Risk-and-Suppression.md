@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 4 - from Risk and Suppression to Gaps and Agency
 date: 2024-05-09 16:20:00 BST
-categories: [weeknotes, thesis]
+categories: [thesis, weeknotes]
 tags: [science, risk, climate, suppression] # always lowercase
 author: pj
 ---

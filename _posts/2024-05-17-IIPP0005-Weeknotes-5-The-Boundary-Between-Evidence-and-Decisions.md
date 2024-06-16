@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 5 - The Boundary Between Evidence and Decisions
 date: 2024-05-17 19:30:00 BST
-categories: [weeknotes, thesis]
+categories: [thesis, weeknotes]
 tags: [science, emotion, climate, evidence] # always lowercase
 author: pj
 ---

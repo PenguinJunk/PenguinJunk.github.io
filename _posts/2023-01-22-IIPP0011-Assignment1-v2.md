@@ -1,7 +1,7 @@
 ---
 title: The Minimum Viable Product v2.0
 date: 2023-01-22 09:00:00 
-categories: [assignments, public administration, digital transformation]
+categories: [assignments, digital transformation]
 tags: [agile, mvp, user stories] # always lowercase
 author: pj
 ---
