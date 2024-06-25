@@ -28,7 +28,9 @@ I’m hoping this is hump week and that things will start going downhill from he
 
 ## Scientists' experience of policy
 
-Reading to understand what “science at the interface with policy” looks like (I will learn much more once I start interviewing). In 2017, the Parliamentary Office for Science and Technology surveyed academics to learn about their perceptions of engaging with UK Parliament ([Knowledge Exchange Unit, 2021](#KEU2021perceptions)). It identified that lack of knowledge and of confidence were common barriers. Giving a first-hand account, Gerber2023 extols the virtues of scientists working at the interface with policy but acknowledges frustration and drawbacks, some of which can be addressed if scientists’ institutions recognised impact on policy as much as, for instance, publishing a peer-reviewed article. Frustrations with government use of scientific evidence emerged during the Covid-19 pandemic, leading to “shadow” science advisory mechanisms; [Pielke (2023)](#Pielke2023) suggests how this can be avoided in future with better preparation for emergency decision-making using science advice.
+Reading to understand what “science at the interface with policy” looks like (I will learn much more once I start interviewing). In 2017, the Parliamentary Office for Science and Technology surveyed academics to learn about their perceptions of engaging with UK Parliament ([Knowledge Exchange Unit, 2021](#KEU2021perceptions)). It identified that lack of knowledge and of confidence were common barriers. Giving a first-hand account, Gerber2023 extols the virtues of scientists working at the interface with policy but acknowledges frustration and drawbacks, some of which can be addressed if scientists’ institutions recognised impact on policy as much as, for instance, publishing a peer-reviewed article. Frustrations with government use of scientific evidence emerged during the Covid-19 pandemic, leading to “shadow” science advisory mechanisms; [Pielke (2023)](#Pielke2023) suggests how this can be avoided in future with better preparation for emergency decision-making using science advice. 
+
+In his still influential book, [*The Honest Broker*](https://www.cambridge.org/core/books/honest-broker/A41AD4D7D14077165807DBE057B5FAF9), Roger Pielke, Jr identifies the roles that experts can perform at the policy interface. [Rapley and De Meyer, 2014](#RapleyD2014), [Gluckman, Bardsley, and Kaiser (2021)](#GluckmanBK2021) and, this month [Gregory et al, 2024](#GregoryBW2024), have all expanded on this. They are all concerned that experts maintain credibility, [Gregory et al, 2024](#GregoryBW2024) acknowledges the tension felt by conservation scientists needing to be seen to act with impartiality given our situation's urgency and complexity ("in a society under threat through existing policies and economies") and that some say that "advocating in every way possible for a liveable future is a rational rather than political act".
 
 ## Policy’s experience of science 
 
@@ -57,9 +59,11 @@ It’s been sluggish of late but I’m ready to start inviting people to partici
 <a name="ColognaKMBMO2024"></a> Viktoria Cologna et al. “Trust in climate science and climate scientists: A narrative review”. In: PLOS Climate (May 23, 2024).
 [https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000400](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000400).
 
-<a name="KEU2021perceptions"></a> Knowledge Exchange Unit. Academics’ perceptions of barriers to engaging with Parliament. Knowledge Exchange Unit, UK Parliament. June 12, 2021.
-[https://www.parliament.uk/get-involved/research-impact-at-the-uk-parliament/why-engage-with-parliament/supporting-researchers-to-
-engage/](https://www.parliament.uk/get-involved/research-impact-at-the-uk-parliament/why-engage-with-parliament/supporting-researchers-to-engage/).
+<a name="GluckmanBK2021"></a> Peter D. Gluckman, Anne Bardsley, and Matthias Kaiser. “Brokerage at the science–policy interface: from conceptual framework to practical guidance”. In: Humanities and Social Sciences Communications 8.84 (1 Mar. 19, 2021). [10.1057/s41599-021-00756-3](https://doi.org/10.1057/s41599-021-00756-3). [https://www.nature.com/articles/s41599-021-00756-3](https://www.nature.com/articles/s41599-021-00756-3).
+
+<a name="GregoryBW2024"></a> Richard D. Gregory et al. "What is the role of scientists in meeting the environmental challenges of the twenty-first century?" In: Royal Society Open Science. June 19, 2024. [https://royalsocietypublishing.org/doi/10.1098/rsos.240498](https://royalsocietypublishing.org/doi/10.1098/rsos.240498) 
+
+<a name="KEU2021perceptions"></a> Knowledge Exchange Unit. Academics’ perceptions of barriers to engaging with Parliament. Knowledge Exchange Unit, UK Parliament. June 12, 2021. [https://www.parliament.uk/get-involved/research-impact-at-the-uk-parliament/why-engage-with-parliament/supporting-researchers-to-engage/](https://www.parliament.uk/get-involved/research-impact-at-the-uk-parliament/why-engage-with-parliament/supporting-researchers-to-engage/).
 
 <a name="LuersKMGCLH2024"></a> Amy Luers et al. “Will AI accelerate or delay the race to net-zero emissions?” In: Nature 628 (Apr. 22, 2024), pp. 718–720.
 [10.1038/d41586-024-01137-x](https://doi.org/10.1038/d41586-024-01137-x).
@@ -74,6 +78,8 @@ engage/](https://www.parliament.uk/get-involved/research-impact-at-the-uk-parlia
 
 <a name="Pivovarchuk2024"></a> Anna Pivovarchuk. What grief for a dying planet looks like: Climate scientists on the edge. Al Jazeera. June 16, 2024.
 [https://www.aljazeera.com/features/2024/6/16/what-grief-for-a-dying-planet-looks-like-climate-scientists-on-the-edge-2](https://www.aljazeera.com/features/2024/6/16/what-grief-for-a-dying-planet-looks-like-climate-scientists-on-the-edge-2) (visited on 06/17/2024).
+
+<a name="RapleyD2014"></a> Chris Rapley and Kris De Meyer. “Climate Climate Science Reconsidered”. In: Nature Climate Change 4 (Sept. 2014), pp. 745–746. [https://www.nature.com/articles/nclimate2352](https://www.nature.com/articles/nclimate2352).
 
 <a name="ReadO2017"></a> Rupert Read and Tim O’Riordan. “The Precautionary Principle Under Fire”. In: Environment: Science and Policy for Sustainable Development 59.5 (2017), pp. 4–15.
 [10.1080/00139157.2017.1350005](https://doi.org/10.1080/00139157.2017.1350005).
