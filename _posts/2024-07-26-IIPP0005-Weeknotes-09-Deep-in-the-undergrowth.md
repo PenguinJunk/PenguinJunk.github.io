@@ -12,7 +12,7 @@ Its been a while - a whole month - which makes this more like "monthnotes". Here
 
 # tl;dr
 
-Mostly I'm collecting and synthesising data from interviews with scientists who have engaged to a greater or lesser extend with public policymaking.
+Mostly I'm collecting and synthesising data from interviews with scientists who have engaged to a greater or lesser extent with public policymaking. Currently I'm looking at a rich and diverse thicket of data that I am gently pruning into something more a little more structured.
 
 # so what is my thesis about?
 
