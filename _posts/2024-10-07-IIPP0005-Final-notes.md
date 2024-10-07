@@ -1,6 +1,6 @@
 ---
 title: Weeknotes 10 - Finished and submitted
-date: 2024-07-26 15:30:00 BST
+date: 2024-10-07 11:28:00 BST
 categories: [thesis, weeknotes]
 tags: [science, policy, climate, QDA] # always lowercase
 author: pj
