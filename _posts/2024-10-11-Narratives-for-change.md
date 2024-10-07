@@ -1,8 +1,8 @@
 ---
 title: Narratives for change
 date: 2024-10-07 14:50:00 BST
-categories: [thesis, weeknotes]
-tags: [economics, society, public purpose, transition] # always lowercase
+categories: [transition, narratives]
+tags: [economics, society, public purpose] # always lowercase
 author: pj
 ---
 I ask questions in this post, they are not rhetorical. If you have answers, please contact me on [https://climatejustice.social/@PenguinJunk](https://climatejustice.social/@PenguinJunk).
