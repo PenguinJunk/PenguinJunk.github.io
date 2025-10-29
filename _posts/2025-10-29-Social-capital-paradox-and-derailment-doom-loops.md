@@ -1,10 +1,14 @@
 ---
-title: Social capital and paradox
-date: 2025-10-29 18:00:00 BST
+title: Social capital, paradox and derailment doom loops
+date: 2025-10-31 16:00:00 BST
 categories: [community resilience, weeknotes, discovery phase]
 tags: [society, social change, community] # always lowercase
 author: pj
 ---
+
+With a system in mind, I have articulated my over-arching question as 
+> "how, in Southampton, do we address the rise of fascism in an increasingly volatile world, and how do we address climate and nature breakdown in an increasingly divided society?"
+(see [Systems Thinking in the previous weeknotes](../A-return-to-weeknotes/#systems-thinking)).
 
 # Social capital
 
@@ -18,18 +22,20 @@ The two findings that I think are valuable for further work are:
 1. communities with a habit of organising together are much better at doing which when a crisis hits
 2. whilst connections to networks supports the recovery of connected individuals, those who are less well connected can fair worse than if there were poor connections across society.
 
-# Derailment doom loops
-
 # Paradox
 
 
+# Derailment doom loops
 
 
+# References
 
+<a name="BennettCEF2015"></a>Bennett et al., 2015. Resilience in the face of post-election violence in Kenya: The mediating role of social networks on wellbeing among older people in the Korogocho informal settlement, Nairobi. doi:[10.1016/j.socscimed.2015.01.033](https://doi.org/10.1016/j.socscimed.2015.01.033)
 
+<a name="Wambura2024"></a>Wambura, 2024. Building Resilient Communities: the Interplay between Climate Change and Social Capital. doi:[10.30574/wjarr.2024.24.2.3491](https://doi.org/10.30574/wjarr.2024.24.2.3491)
 
-Earlier this year I enjoyed a small foray into humanitarianism and peacekeeping literature. This was partially driven by a sense of the perversity that these fields seem to be applied to others and not ourselves, when both a relevant in UK today to some degree. However, both fields seem to "do to", rather than be led by the communities that they wish to benefit.
+<a name="YeA2019"></a>Ye & Aldrich, 2019. Substitute or complement? How social capital, age and socioeconomic status interacted to impact mortality in Japan's 3/11 tsunami. doi:[10.1016/j.ssmph.2019.100403](https://doi.org/10.1016/j.ssmph.2019.100403)
 
-Two works that I have found useful  
+<a name="0000"></a>
+doi:[0000](https://doi.org/0000)
 
-I am most interested in applying my work in my own city, Southampton, simply because its a rich and interesting place to have landed and form a family and even this one city feels daunting in terms of its scope.
