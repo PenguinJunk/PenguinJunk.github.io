@@ -24,7 +24,7 @@ title: PenguinJunk                          # the main title
 tagline: Squaring the triangle # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  I'm a Chartered Scientist and gigging social science researcher, fascinated by how communities have the real conversations that we need to build a safer world 
+  I'm a social science researcher, fascinated by how communities have the real conversations that we need to build a safer world 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://penguinjunk.github.io'
@@ -32,8 +32,8 @@ url: 'https://penguinjunk.github.io'
 github:
   username: PenguinJunk             # change to your github username
 
-twitter:
-  username: PenguinJunk            # change to your twitter username
+#twitter:
+#  username: PenguinJunk            # change to your twitter username
 
 social:
   # Change to your full name.
