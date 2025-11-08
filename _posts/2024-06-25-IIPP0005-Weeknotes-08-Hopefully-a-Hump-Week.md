@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 8 - Hopefully a hump week
 date: 2024-06-25 12:30:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, policy, climate, evidence] # always lowercase
 author: pj
 ---

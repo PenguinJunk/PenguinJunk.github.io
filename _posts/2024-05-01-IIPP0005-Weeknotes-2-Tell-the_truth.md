@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 2 - Tell the Truth
 date: 2024-05-01 17:30:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, policy, rationalism] # always lowercase
 author: pj
 ---

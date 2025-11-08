@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 6 - Developing my methodology
 date: 2024-05-24 13:45:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, methodology, climate, evidence] # always lowercase
 author: pj
 ---

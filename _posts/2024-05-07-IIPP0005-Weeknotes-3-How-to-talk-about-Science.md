@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 3 - How to Talk About Science
 date: 2024-05-07 13:30:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, policy, truth, emotion] # always lowercase
 author: pj
 ---

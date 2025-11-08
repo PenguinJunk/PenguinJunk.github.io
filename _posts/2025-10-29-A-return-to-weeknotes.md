@@ -1,7 +1,7 @@
 ---
 title: A return to weeknotes - community resilience, systems thinking and praxis
 date: 2025-10-29 12:00:00 BST
-categories: [community resilience, weeknotes, discovery phase]
+categories: [weeknotes, community resilience]
 tags: [society, social change, community] # always lowercase
 author: pj
 ---

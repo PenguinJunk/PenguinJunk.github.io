@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 1 - Making a Start
 date: 2024-04-24 10:00:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, policy, rationalism] # always lowercase
 author: pj
 ---

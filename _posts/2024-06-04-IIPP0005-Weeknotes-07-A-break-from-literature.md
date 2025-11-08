@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 7 - A break from literature
 date: 2024-06-14 20:30:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, methodology, climate, evidence] # always lowercase
 author: pj
 ---

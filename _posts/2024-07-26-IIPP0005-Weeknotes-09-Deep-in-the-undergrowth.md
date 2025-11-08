@@ -1,7 +1,7 @@
 ---
 title: Weeknotes 9 - Deep in the undergrowth
 date: 2024-07-26 15:30:00 BST
-categories: [thesis, weeknotes]
+categories: [weeknotes, thesis]
 tags: [science, policy, climate, evidence, QDA] # always lowercase
 author: pj
 ---

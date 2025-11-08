@@ -1,7 +1,7 @@
 ---
 title: Narratives for change
 date: 2024-10-07 14:50:00 BST
-categories: [transition, narratives]
+categories: [occasional thoughts]
 tags: [economics, society, public purpose] # always lowercase
 author: pj
 ---

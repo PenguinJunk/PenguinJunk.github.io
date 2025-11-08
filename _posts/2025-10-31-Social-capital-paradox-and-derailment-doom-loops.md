@@ -1,7 +1,7 @@
 ---
 title: Social capital, paradox and derailment doom loops
 date: 2025-10-31 11:00:00 BST
-categories: [community resilience, weeknotes, discovery phase]
+categories: [weeknotes, community resilience]
 tags: [society, social change, community] # always lowercase
 author: pj
 ---
